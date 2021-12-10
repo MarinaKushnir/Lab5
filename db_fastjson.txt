@@ -1,0 +1,1 @@
+[{"side":8.53,"area":72.76089999999999,"perimeter":34.12,"diagonal":12.0632416870425},{"side":2.95,"area":8.7025,"perimeter":11.8,"diagonal":4.171930009000631},{"side":8.77,"area":76.9129,"perimeter":35.08,"diagonal":12.402652942012043},{"side":8.77,"area":76.91,"perimeter":35.08,"diagonal":12.4}]
